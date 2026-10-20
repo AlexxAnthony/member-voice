@@ -1,0 +1,171 @@
+month,stage,mentions,complaint_mentions,stage_name
+2025-06-01,1_sign_up,14,12,1. Sign-up
+2025-06-01,2_verification,5,2,2. Verification
+2025-06-01,3_profile,27,21,3. Profile
+2025-06-01,4_matching,54,35,4. Matching
+2025-06-01,5_messaging,20,16,5. Messaging
+2025-06-01,6_gold_payment,64,50,6. Gold & payment
+2025-06-01,x_app_quality,18,15,App quality
+2025-06-01,x_non_english,7,3,Not in English
+2025-06-01,x_support,8,7,Customer support
+2025-06-01,x_trust_safety,29,24,Trust & safety
+2025-07-01,1_sign_up,13,12,1. Sign-up
+2025-07-01,2_verification,11,7,2. Verification
+2025-07-01,3_profile,14,9,3. Profile
+2025-07-01,4_matching,39,23,4. Matching
+2025-07-01,5_messaging,18,15,5. Messaging
+2025-07-01,6_gold_payment,56,41,6. Gold & payment
+2025-07-01,x_app_quality,18,15,App quality
+2025-07-01,x_non_english,8,2,Not in English
+2025-07-01,x_support,11,10,Customer support
+2025-07-01,x_trust_safety,25,17,Trust & safety
+2025-08-01,1_sign_up,13,10,1. Sign-up
+2025-08-01,2_verification,3,2,2. Verification
+2025-08-01,3_profile,27,22,3. Profile
+2025-08-01,4_matching,45,30,4. Matching
+2025-08-01,5_messaging,18,10,5. Messaging
+2025-08-01,6_gold_payment,58,49,6. Gold & payment
+2025-08-01,x_app_quality,31,20,App quality
+2025-08-01,x_non_english,4,3,Not in English
+2025-08-01,x_support,14,11,Customer support
+2025-08-01,x_trust_safety,35,26,Trust & safety
+2025-09-01,1_sign_up,18,18,1. Sign-up
+2025-09-01,2_verification,3,1,2. Verification
+2025-09-01,3_profile,17,14,3. Profile
+2025-09-01,4_matching,30,23,4. Matching
+2025-09-01,5_messaging,28,23,5. Messaging
+2025-09-01,6_gold_payment,58,50,6. Gold & payment
+2025-09-01,x_app_quality,19,15,App quality
+2025-09-01,x_non_english,15,5,Not in English
+2025-09-01,x_support,12,10,Customer support
+2025-09-01,x_trust_safety,27,21,Trust & safety
+2025-10-01,1_sign_up,22,19,1. Sign-up
+2025-10-01,2_verification,2,2,2. Verification
+2025-10-01,3_profile,19,17,3. Profile
+2025-10-01,4_matching,47,37,4. Matching
+2025-10-01,5_messaging,25,19,5. Messaging
+2025-10-01,6_gold_payment,65,55,6. Gold & payment
+2025-10-01,x_app_quality,31,29,App quality
+2025-10-01,x_non_english,3,1,Not in English
+2025-10-01,x_support,14,14,Customer support
+2025-10-01,x_trust_safety,29,25,Trust & safety
+2025-11-01,1_sign_up,16,14,1. Sign-up
+2025-11-01,2_verification,10,9,2. Verification
+2025-11-01,3_profile,15,12,3. Profile
+2025-11-01,4_matching,31,26,4. Matching
+2025-11-01,5_messaging,25,16,5. Messaging
+2025-11-01,6_gold_payment,45,36,6. Gold & payment
+2025-11-01,x_app_quality,25,18,App quality
+2025-11-01,x_non_english,8,3,Not in English
+2025-11-01,x_support,19,16,Customer support
+2025-11-01,x_trust_safety,15,13,Trust & safety
+2025-12-01,1_sign_up,9,9,1. Sign-up
+2025-12-01,2_verification,8,6,2. Verification
+2025-12-01,3_profile,24,22,3. Profile
+2025-12-01,4_matching,28,21,4. Matching
+2025-12-01,5_messaging,15,13,5. Messaging
+2025-12-01,6_gold_payment,46,42,6. Gold & payment
+2025-12-01,x_app_quality,13,11,App quality
+2025-12-01,x_non_english,2,0,Not in English
+2025-12-01,x_support,12,11,Customer support
+2025-12-01,x_trust_safety,19,16,Trust & safety
+2026-01-01,1_sign_up,14,13,1. Sign-up
+2026-01-01,2_verification,10,7,2. Verification
+2026-01-01,3_profile,17,10,3. Profile
+2026-01-01,4_matching,49,34,4. Matching
+2026-01-01,5_messaging,11,10,5. Messaging
+2026-01-01,6_gold_payment,54,45,6. Gold & payment
+2026-01-01,x_app_quality,5,2,App quality
+2026-01-01,x_non_english,5,2,Not in English
+2026-01-01,x_support,11,10,Customer support
+2026-01-01,x_trust_safety,31,27,Trust & safety
+2026-02-01,1_sign_up,16,12,1. Sign-up
+2026-02-01,2_verification,4,3,2. Verification
+2026-02-01,3_profile,12,11,3. Profile
+2026-02-01,4_matching,39,25,4. Matching
+2026-02-01,5_messaging,16,11,5. Messaging
+2026-02-01,6_gold_payment,45,38,6. Gold & payment
+2026-02-01,x_app_quality,13,11,App quality
+2026-02-01,x_non_english,6,2,Not in English
+2026-02-01,x_support,8,7,Customer support
+2026-02-01,x_trust_safety,31,27,Trust & safety
+2026-03-01,1_sign_up,8,8,1. Sign-up
+2026-03-01,2_verification,4,4,2. Verification
+2026-03-01,3_profile,11,11,3. Profile
+2026-03-01,4_matching,44,36,4. Matching
+2026-03-01,5_messaging,13,12,5. Messaging
+2026-03-01,6_gold_payment,56,49,6. Gold & payment
+2026-03-01,x_app_quality,7,5,App quality
+2026-03-01,x_non_english,7,5,Not in English
+2026-03-01,x_support,12,12,Customer support
+2026-03-01,x_trust_safety,25,24,Trust & safety
+2026-04-01,1_sign_up,18,18,1. Sign-up
+2026-04-01,2_verification,5,4,2. Verification
+2026-04-01,3_profile,16,12,3. Profile
+2026-04-01,4_matching,39,30,4. Matching
+2026-04-01,5_messaging,18,13,5. Messaging
+2026-04-01,6_gold_payment,56,47,6. Gold & payment
+2026-04-01,x_app_quality,16,14,App quality
+2026-04-01,x_non_english,8,2,Not in English
+2026-04-01,x_support,11,11,Customer support
+2026-04-01,x_trust_safety,32,27,Trust & safety
+2026-05-01,1_sign_up,43,36,1. Sign-up
+2026-05-01,2_verification,6,6,2. Verification
+2026-05-01,3_profile,19,16,3. Profile
+2026-05-01,4_matching,43,33,4. Matching
+2026-05-01,5_messaging,24,18,5. Messaging
+2026-05-01,6_gold_payment,61,53,6. Gold & payment
+2026-05-01,x_app_quality,60,49,App quality
+2026-05-01,x_non_english,4,2,Not in English
+2026-05-01,x_support,12,12,Customer support
+2026-05-01,x_trust_safety,43,38,Trust & safety
+2026-06-01,1_sign_up,21,19,1. Sign-up
+2026-06-01,2_verification,2,1,2. Verification
+2026-06-01,3_profile,15,13,3. Profile
+2026-06-01,4_matching,45,36,4. Matching
+2026-06-01,5_messaging,14,10,5. Messaging
+2026-06-01,6_gold_payment,60,54,6. Gold & payment
+2026-06-01,x_app_quality,10,8,App quality
+2026-06-01,x_non_english,6,2,Not in English
+2026-06-01,x_support,14,12,Customer support
+2026-06-01,x_trust_safety,39,36,Trust & safety
+2026-07-01,1_sign_up,11,9,1. Sign-up
+2026-07-01,2_verification,7,6,2. Verification
+2026-07-01,3_profile,20,19,3. Profile
+2026-07-01,4_matching,65,51,4. Matching
+2026-07-01,5_messaging,12,10,5. Messaging
+2026-07-01,6_gold_payment,84,75,6. Gold & payment
+2026-07-01,x_app_quality,13,10,App quality
+2026-07-01,x_non_english,16,5,Not in English
+2026-07-01,x_support,11,9,Customer support
+2026-07-01,x_trust_safety,47,39,Trust & safety
+2026-08-01,1_sign_up,6,5,1. Sign-up
+2026-08-01,2_verification,5,3,2. Verification
+2026-08-01,3_profile,7,5,3. Profile
+2026-08-01,4_matching,39,28,4. Matching
+2026-08-01,5_messaging,22,15,5. Messaging
+2026-08-01,6_gold_payment,63,57,6. Gold & payment
+2026-08-01,x_app_quality,5,4,App quality
+2026-08-01,x_non_english,10,4,Not in English
+2026-08-01,x_support,10,10,Customer support
+2026-08-01,x_trust_safety,31,26,Trust & safety
+2026-09-01,1_sign_up,17,14,1. Sign-up
+2026-09-01,2_verification,5,4,2. Verification
+2026-09-01,3_profile,22,17,3. Profile
+2026-09-01,4_matching,49,39,4. Matching
+2026-09-01,5_messaging,15,11,5. Messaging
+2026-09-01,6_gold_payment,74,70,6. Gold & payment
+2026-09-01,x_app_quality,6,6,App quality
+2026-09-01,x_non_english,8,2,Not in English
+2026-09-01,x_support,15,13,Customer support
+2026-09-01,x_trust_safety,39,37,Trust & safety
+2026-10-01,1_sign_up,7,7,1. Sign-up
+2026-10-01,2_verification,2,1,2. Verification
+2026-10-01,3_profile,6,5,3. Profile
+2026-10-01,4_matching,25,14,4. Matching
+2026-10-01,5_messaging,10,4,5. Messaging
+2026-10-01,6_gold_payment,35,31,6. Gold & payment
+2026-10-01,x_app_quality,5,5,App quality
+2026-10-01,x_non_english,4,3,Not in English
+2026-10-01,x_support,7,6,Customer support
+2026-10-01,x_trust_safety,17,13,Trust & safety
