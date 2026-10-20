@@ -2,7 +2,7 @@
 
 An independent analysis of the newest 5,000 public Google Play reviews of Muzz (June 2025 to October 2026). It maps what members complain about onto the member journey (sign-up, verification, profile, matching, messaging, Gold), finds out why members are unhappy with Gold, and detects weeks where complaints spiked.
 
-**Live dashboard:** [member-voice.streamlit.app](ADD-LINK) · **Stack:** Python, VADER, BigQuery (SQL views), Streamlit, Plotly
+**Live dashboard:** [member-voice.streamlit.app](https://member-voice.streamlit.app) · **Stack:** Python, VADER, BigQuery (SQL views), Streamlit, Plotly
 
 > This is an independent project built from public data for a job application. It is not affiliated with or endorsed by Muzz. No reviewer names or profile details are stored, and review IDs are hashed.
 
